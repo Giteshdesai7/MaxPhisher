@@ -1,0 +1,16 @@
+Latitude           : 22.6867272° 
+Longitude          : 75.8593368° 
+Google Map         : https://www.google.com/maps/@22.6867272,75.8593368 
+Altitude           : 526.9000244140625m 
+Accuracy           : 83.24679565429688 
+Speed              : 0m/s
+Direction          : 0°
+
+Latitude           : 22.6867062° 
+Longitude          : 75.859328° 
+Google Map         : https://www.google.com/maps/@22.6867062,75.859328 
+Altitude           : 526.9000244140625m 
+Accuracy           : 13.293999671936035 
+Speed              : 0m/s
+Direction          : 0°
+

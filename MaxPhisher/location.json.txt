@@ -1,0 +1,20 @@
+[
+  {
+    "Latitude": "22.6867272\u00b0",
+    "Longitude": "75.8593368\u00b0",
+    "Google Map": "https",
+    "Altitude": "526.9000244140625m",
+    "Accuracy": "83.24679565429688",
+    "Speed": "0m/s",
+    "Direction": "0\u00b0"
+  },
+  {
+    "Latitude": "22.6867062\u00b0",
+    "Longitude": "75.859328\u00b0",
+    "Google Map": "https",
+    "Altitude": "526.9000244140625m",
+    "Accuracy": "13.293999671936035",
+    "Speed": "0m/s",
+    "Direction": "0\u00b0"
+  }
+]

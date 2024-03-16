@@ -1,0 +1,18 @@
+[
+  {
+    "Account": "Satguru 2nd floor _5g",
+    "Password": "satguru@123"
+  },
+  {
+    "Instagram Username": "giteshdesai7@gmail.com",
+    "Password": "72292838388382828828289bsbd377Gs"
+  },
+  {
+    "Instagram Username": "giteshdesai7@gmail.com",
+    "Password": "72292838388382828828289bsbd377Gs"
+  },
+  {
+    "Instagram Username": "giteshdesai7@gmail.com",
+    "Password": "y7272727e73u3ahshhGd"
+  }
+]
